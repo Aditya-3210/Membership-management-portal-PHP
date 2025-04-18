@@ -1,0 +1,5 @@
+Database Name: membershiphp
+
+Login Details
+Email   : admin@mail.com
+Password: memberly321
